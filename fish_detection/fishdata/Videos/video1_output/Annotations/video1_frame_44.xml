@@ -1,0 +1,13 @@
+<annotation verified="yes">
+                                    <folder>Annotation</folder>
+                                    <filename>video1_frame_44</filename>
+                                    <path>C:\lab\tensorflowobjectdetection\fishdata\Videos\video1_output\JPEGImages\video1_frame_44.jpg</path>
+                                    <source>
+                                        <database>Unknown</database>
+                                    </source>
+                                    <size>
+                                        <width>600</width>
+                                        <height>336</height>
+                                        <depth>3</depth>
+                                    </size>
+                                    <segmented>0</segmented></annotation>

@@ -1,0 +1,11 @@
+video1_frame_9 -1
+video1_frame_13 -1
+video1_frame_15 -1
+video1_frame_16 -1
+video1_frame_19 -1
+video1_frame_21 -1
+video1_frame_23 -1
+video1_frame_28 1
+video1_frame_34 -1
+video1_frame_36 1
+video1_frame_41 -1
