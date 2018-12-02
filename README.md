@@ -33,3 +33,8 @@ you might need to rerun the following block to make sure your changes took place
 #manual step - hard coded issue
 ! cd  ../ && {sys.executable} setup.py build && {sys.executable} setup.py install && chmod 777 slim && cd slim && ! sudo {sys.executable} -m pip install -e . && ! echo 'done' && ! ls `
 
+
+
+# Resource:
+
+1. [Provision the Data Science Virtual Machine for Linux (Ubuntu)](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/dsvm-ubuntu-intro)
